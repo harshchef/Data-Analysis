@@ -1,2 +1,1 @@
-# Data-Analysis
- Objective: > Improve customer experience by analyzing sales data >Increase revenue
+Performed data cleaning and preprocessing, followed by exploratory data analysis employing bar plots to scrutinize various parameters and trends. The objective was to enhance customer experience by analyzing sales data, thereby increasing revenue. 
